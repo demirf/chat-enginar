@@ -1,0 +1,13 @@
+{
+  "name": "chatartichoke",
+  "description": "",
+  "main": "",
+  "authors": [
+    "dferhat <fdemirr8@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dferhat/chat-artichoke",
+  "dependencies": {
+    "angular": "^1.7.8"
+  }
+}
